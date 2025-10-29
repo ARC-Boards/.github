@@ -2,7 +2,7 @@
 
 # 🧠 ARC Boards
 
-### *Empowering curiosity through creation.*
+![Cover Photo](https://github.com/ARC-Boards/.github/profile/images/ARCBoards(Cover).png "Logo Title Text 1")
 
 ---
 
@@ -25,9 +25,8 @@ and how to build their own.
 
 ### 🌍 Our Vision
 
-We believe learning isn’t just about reading or watching — it’s about **creating**.  
-Our vision is to inspire curiosity and creativity by making technology more approachable.  
-Through ARC Boards, we hope to help students discover the joy of building, experimenting,  
+We aim to inspire curiosity and creativity by making technology more approachable.  
+Through ARC Boards, we will help students discover the joy of building, experimenting,  
 and solving problems through electronics.
 
 ---
