@@ -6,7 +6,7 @@
 
 ---
 
-**ARC (Applied Robotics Circuits) Boards** is a **student-led startup** based at  
+**ARC (Applied Robotics Circuit) Boards** is a **student-led startup** based at  
 **Gumaca National High School**, in **Gumaca, Quezon, Philippines**.  
 
 We’re a team of young innovators passionate about **electronics, robotics, and hands-on learning**.  
@@ -68,6 +68,6 @@ Every idea and effort counts. Let’s grow together!
 ---
 
 ### *“Empowering curiosity through creation.”*  
-**ARC Boards — Applied Robotics Circuits**
+**ARC Boards — Applied Robotics Circuit**
 
 </div>
