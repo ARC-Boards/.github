@@ -1,2 +1,2 @@
 # .github
-Our GitHub organization description.
+Hey! This is our description <3.
