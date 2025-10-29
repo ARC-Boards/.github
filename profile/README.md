@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 ARC Boards
+# ARC Boards 
 
-![Cover Photo](https://github.com/ARC-Boards/.github/profile/images/ARCBoards(Cover).png "Logo Title Text 1")
+![Cover Photo](https://github.com/ARC-Boards/.github/blob/main/profile/images/ARCBoards(Cover).png)
 
 ---
 
