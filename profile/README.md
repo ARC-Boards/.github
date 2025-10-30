@@ -51,9 +51,9 @@ We welcome anyone who wants to learn or build with us.
 If you’re interested in contributing — whether in **circuit design**, **firmware development**,  
 or **documentation** — we’d love your help!  
 
-• Fork a project  
-• Create a branch  
-• Submit a pull request  
+- Fork a project
+- Create a branch
+- Submit a pull request  
 
 Every idea and effort counts. Let’s grow together!
 
